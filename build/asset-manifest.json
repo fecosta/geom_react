@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/fecosta/geom_react/static/css/main.923187b8.css",
+    "main.js": "/fecosta/geom_react/static/js/main.446f6c01.js",
+    "index.html": "/fecosta/geom_react/index.html",
+    "main.923187b8.css.map": "/fecosta/geom_react/static/css/main.923187b8.css.map",
+    "main.446f6c01.js.map": "/fecosta/geom_react/static/js/main.446f6c01.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.923187b8.css",
+    "static/js/main.446f6c01.js"
+  ]
+}
