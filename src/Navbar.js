@@ -7,9 +7,9 @@ const Navbar = () => {
             <h1>GEOM</h1>
             <div className="links">
                 <Link to="/geom_react">intro</Link>
-                <Link to="/maps">map</Link>
-                <Link to="/table">table</Link>
-                <Link to="/chart">chart</Link>
+                <Link to="/geom_react/maps">map</Link>
+                <Link to="/geom_react/table">table</Link>
+                <Link to="/geom_react/chart">chart</Link>
             </div>
         </nav>
     );

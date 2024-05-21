@@ -14,7 +14,7 @@ function App() {
         <Navbar />
         <div className="content">
           <Switch>
-            <Route exact path="/"><Home /></Route>
+            <Route exact path="/geom_react"><Home /></Route>
             <Route path="/maps"><Maps /></Route>
             <Route path="/table"><Table /></Route>
             <Route path="/charts"><Charts /></Route>
