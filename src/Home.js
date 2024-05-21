@@ -3,7 +3,7 @@ import BlogList from "./BlogList";
 import useFecth from "./useFetch";
 
 const Home = () => {
-    const{data: blogs, isPending, error } = useFecth('http://localhost:8000/blogs');
+    const{data: blogs, isPending, error } = useFecth('https://fecosta.github.io/blogs');
 
     return (  
         <div className="home">
