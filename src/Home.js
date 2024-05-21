@@ -3,7 +3,7 @@ import BlogList from "./BlogList";
 import useFecth from "./useFetch";
 
 const Home = () => {
-    const{data: blogs, isPending, error } = useFecth('https://fecosta.github.io/blogs');
+    const{data: blogs, isPending, error } = useFecth('https://fecosta.github.io/blogshttps://github.com/fecosta/geom_react/blob/main/data/db.json');
 
     return (  
         <div className="home">
