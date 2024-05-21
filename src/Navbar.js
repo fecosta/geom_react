@@ -7,7 +7,6 @@ const Navbar = () => {
             <h1>GEOM</h1>
             <div className="links">
                 <Link to="/">intro</Link>
-                {/* <Link to="/create">create</Link> */}
                 <Link to="/maps">map</Link>
                 <Link to="/table">table</Link>
                 <Link to="/chart">chart</Link>
